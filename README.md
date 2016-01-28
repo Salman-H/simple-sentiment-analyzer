@@ -188,6 +188,13 @@ Using a simple classifier to analyze buyer sentiments using Dato's GraphLab Crea
 
 
 
+	
+<div>	
+	<img src="https://cloud.githubusercontent.com/assets/5385065/12634027/25707a54-c544-11e5-9827-23aaa59f7a5d.PNG">
+</div>
+
+
+
 #Explore the most popular product: Vulli Sophie
 
 
