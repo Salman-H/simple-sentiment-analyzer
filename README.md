@@ -230,7 +230,11 @@ Using a simple classifier to analyze buyer sentiments using Dato's GraphLab Crea
 
     giraffe_reviews['rating'].show(view='Categorical')
 
+	
 
+<div>	
+	<img src="https://cloud.githubusercontent.com/assets/5385065/12634092/a51b21d2-c544-11e5-864d-71290066b66c.PNG">
+</div>	
 
 
     # Hence, we can see that 68.153% of these Vulli Sophie products have received a 5-star rating,
@@ -241,6 +245,11 @@ Using a simple classifier to analyze buyer sentiments using Dato's GraphLab Crea
 
     products['rating'].show(view='Categorical')
 
+	
+	
+<div>	
+	<img src="https://cloud.githubusercontent.com/assets/5385065/12634086/9e772614-c544-11e5-91d1-b69ed80bc51c.PNG">
+</div>
 
 
 
@@ -439,6 +448,12 @@ Using a simple classifier to analyze buyer sentiments using Dato's GraphLab Crea
 
 
 
+<div>	
+	<img src="https://cloud.githubusercontent.com/assets/5385065/12634094/a7b0918e-c544-11e5-93fb-f0fcac5501e0.PNG">
+</div>
+
+
+	
     # The threshold is what we believe the transition from negative class to positive class should be
 
 #Applying the learned model to understand a product review sentiment
